@@ -22,6 +22,7 @@ img {
   font-size: 17px;
   padding-right: 5%;
   margin-bottom: auto;
+  color: #9b2f2f;
 }
 
 .fa {
@@ -47,7 +48,7 @@ img {
 .pagetitle_div {
   background-image: url(map.jpg);
   background-size: cover;
-  background-color: #9b2f2f;
+  background-color: white;
   color: white;
   height: 350px;
   display: flex;
