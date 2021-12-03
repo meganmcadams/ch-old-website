@@ -128,7 +128,7 @@ img {
 /* navigation bar */
 
 #topnav {
-  background-color: #cfa1a1;
+  background-color: #dad9d9;
   overflow: hidden;
   color: white;
   float: inline;
@@ -144,13 +144,13 @@ img {
 }
 
 #topnav a:hover {
-  background-color: #dad9d9;
+  background-color: white;
   color: black;
   opacity: 1;
   transition: 0.3s;
 }
 
 #topnav a.active {
-  background-color: #b26161;
+  background-color: #922f2f;
   color: white;
 }
