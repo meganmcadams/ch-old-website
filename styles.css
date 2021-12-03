@@ -32,7 +32,7 @@ img {
   text-align: center;
   text-decoration: none;
   background: white;
-  color: #6a8ea4;
+  color: #9b2f2f;
   border-radius: 50%;
   float: bottom;
   margin: auto;
@@ -47,7 +47,7 @@ img {
 .pagetitle_div {
   background-image: url(map.jpg);
   background-size: cover;
-  background-color: #6a8ea4;
+  background-color: #9b2f2f;
   color: white;
   height: 350px;
   display: flex;
@@ -56,7 +56,7 @@ img {
 }
 
 .pagetitle_text {
-  color: #2C3B44;
+  color: #9b2f2f;
   text-shadow:5px 5px 5px grey;
   font-style: bold;
   margin: auto;
@@ -128,7 +128,7 @@ img {
 /* navigation bar */
 
 #topnav {
-  background-color: #2C3B44;
+  background-color: #cfa1a1;
   overflow: hidden;
   color: white;
   float: inline;
@@ -136,7 +136,7 @@ img {
 
 #topnav a {
   float: left;
-  color: #ddd;
+  color: #9b2f2f;
   text-align: center;
   padding: 16px 14px;
   text-decoration: none;
@@ -144,13 +144,13 @@ img {
 }
 
 #topnav a:hover {
-  background-color: #ddd;
+  background-color: #dad9d9;
   color: black;
   opacity: 1;
   transition: 0.3s;
 }
 
 #topnav a.active {
-  background-color: #6a8ea4;
+  background-color: #b26161;
   color: white;
 }
