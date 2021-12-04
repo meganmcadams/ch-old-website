@@ -155,24 +155,3 @@ img {
   background-color: #922f2f;
   color: white;
 }
-
-/* buttons */
-
-.button {
-  background-color: #922f2f;
-  color: white;
-  height: 40px;
-  width: 60px;
-  margin: auto;
-  font-family: Georgia, serif;
-  padding: 16px 14px;
-  font-size: 17px;
-  margin-top: 250px !important;
-}
-
-.button:hover {
-  background-color: white;
-  color: black;
-  transition: 0.3s;
-  opacity: 1;
-}
