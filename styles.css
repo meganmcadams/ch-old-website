@@ -66,7 +66,9 @@ img {
   vertical-align: middle;
   font-size: 80px;
   position: absolute;
-  top: 150px;
+  top: 175px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 /* content */
@@ -170,7 +172,9 @@ img {
   padding: 16px 14px;
   font-size: 17px;
   position: absolute;
-  top: 175px;
+  top: 250px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .button:hover {
