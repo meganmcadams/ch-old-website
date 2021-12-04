@@ -51,7 +51,7 @@ img {
   background-color: white;
   color: white;
   height: 350px;
-  display: flex;
+  /*display: flex;*/
   align-items: center;
   justify-content: center;
 }
@@ -161,8 +161,17 @@ img {
 .button {
   background-color: #922f2f;
   color: white;
-  height: 20px;
-  width: 30px;
+  height: 40px;
+  width: 60px;
   margin: auto;
   font-family: Georgia, serif;
+  padding: 16px 14px;
+  font-size: 17px;
+}
+
+.button:hover {
+  background-color: white;
+  color: black;
+  transition: 0.3s;
+  opacity: 1;
 }
