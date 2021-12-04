@@ -65,6 +65,8 @@ img {
   font-family: Georgia, serif;
   vertical-align: middle;
   font-size: 80px;
+  position: absolute;
+  top: 40%;
 }
 
 /* content */
@@ -167,6 +169,8 @@ img {
   font-family: Georgia, serif;
   padding: 16px 14px;
   font-size: 17px;
+  align-items: center;
+  justify-content: center;
 }
 
 .button:hover {
